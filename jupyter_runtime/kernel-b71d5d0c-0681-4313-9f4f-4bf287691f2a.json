@@ -1,0 +1,13 @@
+{
+  "shell_port": 62069,
+  "iopub_port": 62070,
+  "stdin_port": 62071,
+  "control_port": 62073,
+  "hb_port": 62072,
+  "ip": "127.0.0.1",
+  "key": "175ebfb1-cca94619ac9091606179c9e2",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\ISITECH\\Documents\\Training01\\KIT_JOUR4\\Jour4.2\\JOUR4_NLP_IA_GENERATIVE_DEPLOIEMENT_ETHIQUE_PRATIQUE_COMMENTE.ipynb"
+}
