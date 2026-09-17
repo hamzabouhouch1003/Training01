@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 8512,
+  "port": 8888,
+  "root_dir": "C:\\Users\\ISITECH",
+  "secure": false,
+  "sock": "",
+  "token": "552035109a23336512de7c3e9cc8e17fff08724d7e174f94",
+  "url": "http://localhost:8888/",
+  "version": "2.21.1"
+}
